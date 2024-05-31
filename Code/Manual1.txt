@@ -1,0 +1,89 @@
+Projection-based Terrain Profiler Help Manual
+
+Welcome to the Terrain Profile Generator tool! 
+This manual will guide you through the process of using the tool to transform terrain point cloud data into surface profiles.
+
+Table of Contents
+	Introduction
+	Getting Started
+	Importing Data
+	Data Processing Parameters
+	Export Options
+	Profile Length and Neighbors
+	Column Selection
+	CPU Configuration
+	Submitting the Analysis
+	Output Options
+	Conclusion
+
+1. Introduction:
+The Terrain Profile Generator is a powerful tool designed to convert elevation data into detailed surface profiles. 
+You can choose between point-based or edge-based profiles, depending on your needs.
+
+2. Getting Started:
+Before you begin, ensure you have your elevation data ready in a compatible format (ASCII file).
+
+3. Importing Data:
+Use the 'Import Raw Data' button to select your elevation data file. 
+The tool requires X, Y, and Z coordinates for each point.
+
+4. Data Processing Parameters:
+Adjust the following parameters to customize your analysis:
+
+	Decimal Places to Round: Set the number of decimal places to consider in the data.
+	Block Size: Choose the block size for analysis.
+	Span Across Highest/Lowest Point: Set the span across the highest and lowest points for analysis.
+	Min. Local Height Difference: Define the minimum local height difference to consider.
+	Section Median Coverage (%): Specify the percentage for section median coverage. (A section consists of 'Block Size' number of blocks)
+
+5. Additional Export Options:
+Choose whether to export:
+
+	Export Points: A separate file containing only the points.
+	Export Edges: A separate file containing only the edges.
+
+6. Profile Length and Neighbors:
+Customize the profile length and neighbors:
+
+	Min. Profile Length Along X,Y Coordinates: Set the minimum profile length along X and Y coordinates.
+	Max. Length Between Points for Connectivity: Define the maximum length between two neighboring points.
+	Max. Length for Closed Edges: Set the maximum length to close open edges.
+
+7. Row Selection:
+Specify the series of rows to be skipped
+
+8. Column Selection:
+Specify the column numbers for your data:
+
+	X Column: Column number for X-coordinate data.
+	Y Column: Column number for Y-coordinate data.
+	Z Column: Column number for Z-coordinate data.
+
+9. CPU Configuration:
+Utilize the CPU configuration options:
+
+	Available Logical CPUs: Displays the number of logical CPUs available.
+	CPUs to Use: Choose the number of CPUs to use for processing.
+
+10. Submitting for Analysis:
+Once you've configured the parameters, click the 'Submit' button to initiate the analysis process.
+
+11. Output Options:
+The tool generates surface profiles based on your settings. 
+You can obtain point-based or edge-based profiles depending on your export options.
+
+12. Viewing Results: 
+To visualize and interact with the generated output, consider utilizing third-party tools such as 'CloudCompare', 'MeshLab', or similar applications. 
+These tools enhance your viewing experience and allow you to explore the results in greater detail.
+
+13. Conclusion:
+The Terrain Profile Generator empowers you to transform elevation data into informative surface profiles. 
+Experiment with the various parameters to uncover valuable insights.
+
+You can use the 'Sample Data' from 'File' menu to test and experience the functionality of the tool. 
+Alternatively, you have the flexibility to employ your own dataset, provided it adheres to the format with records consisting of latitude (lat), 
+longitude (lon), and elevation points. This customization allows users to work with their specific geographic data for accurate surface profiling.
+
+
+For further assistance, please contact us.
+
