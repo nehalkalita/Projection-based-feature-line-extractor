@@ -1,5 +1,5 @@
-# Projection-based-terrain-profiler
-A profile generator from terrain point cloud data using projection-based approach 
+# Projection-based-breakline-extractor
+A feature line extractor from terrain point cloud data using projection-based approach. 
 
 ![alt text](output_demonstration.png)
 
@@ -8,6 +8,6 @@ A profile generator from terrain point cloud data using projection-based approac
 * multiprocessing
 
 ## Code execution
-Open the directory **Code** in an editor like VS Code and run the file named `projection-based_terrain_profiler.py`.
+Open the directory **Code** in an editor like VS Code and run the file named `projection_based_breakline_extractor.py`.
 The user manual for this tool can be accessed through the drop-down menu named `Help`.
  
