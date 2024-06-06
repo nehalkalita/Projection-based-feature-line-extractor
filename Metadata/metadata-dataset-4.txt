@@ -1,0 +1,86 @@
+Dataset Information:
+
+Dataset Name: 2014-2015 lidar survey of the McMurdo Dry Valleys, Antarctica
+Dataset Short Name: MDV_2014
+DOI: https://doi.org/10.5069/G9D50JX3
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: The user acknowledges that 2014-2015 lidar survey of the McMurdo Dry Valleys, Antarctica dataset was made possible by the National Science Foundation (NSF) through the Antarctic Integrated Systems Science award ANT-1246342 granted to Andrew G. Fountain, Department of Geology, Portland State University. The data were collected and processed by the NSF National Center for Airborne Laser Mapping (NCALM) and made available through the OpenTopography Facility. 
+
+When using this data, please cite: Fountain, A. G., Fernandez-Diaz, J. C., Obryk, M., Levy, J., Gooseff, M., Van Horn, D. J., Morin, P., and Shrestha, R.: High-resolution elevation mapping of the McMurdo Dry Valleys, Antarctica, and surrounding regions, Earth Syst. Sci. Data, 9, 435-443, https://doi.org/10.5194/essd-9-435-2017, 2017.
+
+Dataset Citation: 2014-2015 lidar survey of the McMurdo Dry Valleys, Antarctica. Distributed by OpenTopography. https://doi.org/10.5069/G9D50JX3 . Accessed: 2024-02-05
+
+Horizontal Coordinates: USGS Transantarctic Mountains Projection based on WGS84 ellipsoid [EPSG: 3294]
+Vertical Coordinates: WGS84 (Ellipsoid) Heights Meters [EPSG: 4326]
+
+Job Description:
+	User:nehalkalita94@gmail.com
+	Job ID: pc1707170567811
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-02-05 22:02:48
+	Completion Time: 2024-02-05 22:04:29
+	Duration: 101 seconds
+	Number of Points: 5,771,202
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 17339.564473
+	Xmax: 18463.374593
+	Ymin: 42394.640853
+	Ymax: 43240.915213
+	Classifications: all
+	Exclude Noise: No
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: terrain
+	Multidirectional: No
+	Altitude of Light source: 45.0
+	Azimuth of Light source: 315.0
+	KMZ Option: Yes
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: Yes
+	Contour radius: 5 pixels
+	Contour interval: 2.5 meter
+	Output type: Shapefile
+	Grid option: No
+	Vizualization: Yes

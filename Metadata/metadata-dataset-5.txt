@@ -1,0 +1,84 @@
+Dataset Information:
+
+Dataset Name: St. Elis Mountains and Gulf of Alaska
+Dataset Short Name: AK05_Pavlis
+DOI: https://doi.org/10.5069/G9R20Z92
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: Lidar data acquisition and processing completed by the National Center for Airborne Laser Mapping (NCALM - https://ncalm.cive.uh.edu). NCALM funding provided by NSF's Division of Earth Sciences, Instrumentation and Facilities Program. EAR-1043051.
+
+Dataset Citation: St. Elias Mountains and Gulf of Alaska. Distributed by OpenTopography. https://doi.org/10.5069/G9R20Z92 . Accessed: 2024-02-07
+
+Horizontal Coordinates: NAD83 (CORS96) / UTM Zone 06N [EPSG: 26906]
+Vertical Coordinates: NAVD88 (GEOID 03) [EPSG: 5703]
+
+Job Description:
+	User:nehalkalita94@gmail.com
+	Job ID: pc1707306281376
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-02-07 11:44:41
+	Completion Time: 2024-02-07 11:47:23
+	Duration: 162 seconds
+	Number of Points: 3,232,785
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 641346.871549
+	Xmax: 642309.160161
+	Ymin: 6688239.46652
+	Ymax: 6689097.948483
+	Classifications: all
+	Exclude Noise: No
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: terrain
+	Multidirectional: No
+	Altitude of Light source: 45.0
+	Azimuth of Light source: 315.0
+	KMZ Option: No
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: Yes
+	Contour radius: 5 pixels
+	Contour interval: 2.5 meter
+	Output type: Shapefile
+	Grid option: No
+	Vizualization: Yes

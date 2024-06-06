@@ -1,0 +1,84 @@
+Dataset Information:
+
+Dataset Name: Survey of 1920 Haiyuan Earthquake Rupture, China 2013-2017
+Dataset Short Name: CN17_Ou
+DOI: https://doi.org/10.5069/G9833Q6Z
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: This data was produced as part of the work published in the following paper. For more information please see: Ou, Q., Kulikova, G., Yu, J., Elliott, A., Parsons, B., & Walker, R. (2020). Magnitude of the 1920 Haiyuan Earthquake Reestimated Using Seismological and Geomorphological Methods.Journal of Geophysical Research: Solid Earth, 125(8). https://doi.org/10.1029/2019jb019244
+
+Dataset Citation: Ou, Q., Kulikova, G., Yu, J., Elliott, A., Parsons, B., & Walker, R. (2022). Survey of 1920 Haiyuan Earthquake Rupture, China 2013-2017 . Distributed by OpenTopography. https://doi.org/10.5069/G9833Q6Z. Accessed: 2024-05-27
+
+Horizontal Coordinates: WGS84 / UTM Zone 48N Meters [EPSG: 32648]
+Vertical Coordinates: Ellipsoid
+
+Job Description:
+	User:nehalkalita94@gmail.com
+	Job ID: pc1708098444354
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-02-16 15:47:24
+	Completion Time: 2024-02-16 15:48:46
+	Duration: 82 seconds
+	Number of Points: 2,729,585
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 419745.785285
+	Xmax: 420756.890259
+	Ymin: 4100878.307164
+	Ymax: 4101551.127339
+	Classifications: all
+	Exclude Noise: No
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: terrain
+	Multidirectional: No
+	Altitude of Light source: 45.0
+	Azimuth of Light source: 315.0
+	KMZ Option: No
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: Yes
+	Contour radius: 5 pixels
+	Contour interval: 2.5 meter
+	Output type: Shapefile
+	Grid option: No
+	Vizualization: Yes

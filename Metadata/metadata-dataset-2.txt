@@ -1,0 +1,82 @@
+Dataset Information:
+
+Dataset Name: Na Pali Coast, Kauai, Hawaii
+Dataset Short Name: HI13_Huppert
+DOI: https://doi.org/10.5069/G91834D5
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: Lidar data acquisition and processing completed by the National Center for Airborne Laser Mapping (NCALM - https://ncalm.cive.uh.edu). NCALM funding provided by NSF's Division of Earth Sciences, Instrumentation and Facilities Program. EAR-1043051.
+
+Dataset Citation: Na Pali Coast, KauaI, Hawaii. Distributed by OpenTopography. https://doi.org/10.5069/G91834D5 . Accessed: 2024-02-03
+
+Horizontal Coordinates: NAD83 (PA11) / UTM Zone 04N [EPSG: 26904]
+Vertical Coordinates: GEOID 12A
+
+Job Description:
+	User:nehalkalita94@gmail.com
+	Job ID: pc1706999211116
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-02-03 22:26:51
+	Completion Time: 2024-02-03 22:27:52
+	Duration: 61 seconds
+	Number of Points: 2,332,998
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 431395.511313
+	Xmax: 432083.85058
+	Ymin: 2441374.377803
+	Ymax: 2441854.247291
+	Classifications: all
+	Exclude Noise: Yes
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: terrain
+	Multidirectional: Yes
+	KMZ Option: Yes
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: Yes
+	Contour radius: 5 pixels
+	Contour interval: 2.5 meter
+	Output type: Shapefile
+	Grid option: No
+	Vizualization: Yes

@@ -1,0 +1,82 @@
+Dataset Information:
+
+Dataset Name: Northern San Andreas Fault, CA
+Dataset Short Name: NSAF
+DOI: https://doi.org/10.5069/G9MW2F2H
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: This airborne laser swath mapping data was acquired in support of collaborative research by members of the U.S. Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA), with funding provided by NASA's Earth Surface and Interior Focus Area. The data were acquired and processed by TerraPoint, LLC under contract to NASA's Stennis Space Center. The data are in the public domain with no restrictions on their use.
+
+Dataset Citation: Northern San Andreas Fault, CA. Distributed by OpenTopography. https://doi.org/10.5069/G9MW2F2H . Accessed: 2024-02-11
+
+Horizontal Coordinates: California State Plane Zone II US Survey Feet [EPSG: 2871]
+Vertical Coordinates: NAVD88
+
+Job Description:
+	User:nehalkalita94@gmail.com
+	Job ID: pc1707659613539
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-02-11 13:53:33
+	Completion Time: N/A
+	Duration: -1 seconds
+	Number of Points: 6,353,787
+	Status: Contour
+
+Data Selection Coordinates: 
+	Xmin: 6095113.104509
+	Xmax: 6102088.256659
+	Ymin: 2136344.326179
+	Ymax: 2141940.909725
+	Classifications: all
+	Exclude Noise: Yes
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 6
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: terrain
+	Multidirectional: Yes
+	KMZ Option: Yes
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: Yes
+	Contour radius: 5 pixels
+	Contour interval: 2.5 meter
+	Output type: Shapefile
+	Grid option: No
+	Vizualization: Yes

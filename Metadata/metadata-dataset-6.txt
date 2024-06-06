@@ -1,0 +1,79 @@
+Dataset Information:
+
+Dataset Name: Southland, New Zealand 2020-2023
+Dataset Short Name: NZ21_South
+DOI: https://doi.org/10.5069/G9TM78B1
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: Released under Creative Commons CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Attribution Required for Copies: "Copyright in this work is owned by Environment Southland". Attribution Required for Derivative works: "Copyright in the underlying dataset from which this work has been derived is owned by Environment Southland"
+
+Dataset Citation: Environment Southland Regional Council, Toit&#363; Te Whenua Land Information New Zealand (LINZ) (2023). Southland, New Zealand 2020-2023. Collected by Aerial Surveys, distributed by OpenTopography and LINZ. https://doi.org/10.5069/G9TM78B1. Accessed: 2024-01-22
+
+Horizontal Coordinates: NZTM2000 NZGD2000 Meters [EPSG: 2193]
+Vertical Coordinates: NZVD2016 [EPSG: 7839]
+
+Job Description:
+	User:nehalkalita94@gmail.com
+	Job ID: pc1705921745873
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-01-22 11:09:06
+	Completion Time: 2024-01-22 11:09:57
+	Duration: 51 seconds
+	Number of Points: 3,211,759
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 1206487.214165
+	Xmax: 1207132.240963
+	Ymin: 5030608.417323
+	Ymax: 5031104.527591
+	Classifications: all
+	Exclude Noise: Yes
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: gistEarth
+	Multidirectional: No
+	Altitude of Light source: 45.0
+	Azimuth of Light source: 315.0
+	KMZ Option: No
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: No

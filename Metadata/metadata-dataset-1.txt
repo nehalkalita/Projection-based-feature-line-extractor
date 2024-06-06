@@ -1,0 +1,79 @@
+Dataset Information:
+
+Dataset Name: Fault systems in the Eastern California Shear Zone, CA
+Dataset Short Name: ECSZ
+DOI: https://doi.org/10.5069/G93X84KG
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Acknowledgement: Lidar data acquired by the National Center for Airborne Laser Mapping on behalf of Dr. Mike Oskin (UC Davis) and Dr. Lesley Perg (University of Minnesota) as part of their National Science Foundation funded-project (No. EAR-0337263): Testing tectonic geodesy from fault slip rates across the eastern California shear zone.
+
+Dataset Citation: Fault systems in the Eastern California Shear Zone, CA. Distributed by OpenTopography. https://doi.org/10.5069/G93X84KG . Accessed: 2024-02-05
+
+Horizontal Coordinates: WGS84 / UTM Zone 11N Meters [EPSG: 32611]
+Vertical Coordinates: Ellipsoid
+
+Job Description:
+	User:[Guest] nehalkalita94@gmail.com
+	Job ID: pc1707167542616
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2024-02-05 21:12:22
+	Completion Time: 2024-02-05 21:13:04
+	Duration: 42 seconds
+	Number of Points: 3,269,524
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 534732.613843
+	Xmax: 536230.61497
+	Ymin: 3844951.783188
+	Ymax: 3846358.658388
+	Classifications: all
+	Exclude Noise: No
+
+Point Cloud Results:
+	Download point cloud data format: ascii
+
+DEM Generation (Local Gridding):
+	Calculate Zmin grid: No
+	Calculate Zmax grid: No
+	Calculate Zmean grid: No
+	Calculate Zidw grid: No
+	Calculate point count: No
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Derivative Products:
+	Generate hillshade and slope grids: none
+
+Visualization:
+	Images & Google Earth KML: No
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: Yes,  Slope: Yes, Aspect: Yes, Roughness: Yes
+	Color Map: terrain
+	Multidirectional: No
+	Altitude of Light source: 45.0
+	Azimuth of Light source: 315.0
+	KMZ Option: No
+	Output Format: tif
+	Vertical Exaggeration: 1
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: No
