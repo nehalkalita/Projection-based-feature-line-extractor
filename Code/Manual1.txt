@@ -1,7 +1,7 @@
-Projection-based Terrain Profiler Help Manual
+Projection-based Breakline Extractor Help Manual
 
-Welcome to the Terrain Profile Generator tool! 
-This manual will guide you through the process of using the tool to transform terrain point cloud data into surface profiles.
+Welcome to the Breakline Extractor tool! 
+This manual will guide you through the process of using the tool to transform terrain point cloud data into surface breaklines.
 
 Table of Contents
 	Introduction
@@ -9,7 +9,7 @@ Table of Contents
 	Importing Data
 	Data Processing Parameters
 	Export Options
-	Profile Length and Neighbors
+	Breakline Length and Neighbors
 	Column Selection
 	CPU Configuration
 	Submitting the Analysis
@@ -17,8 +17,8 @@ Table of Contents
 	Conclusion
 
 1. Introduction:
-The Terrain Profile Generator is a powerful tool designed to convert elevation data into detailed surface profiles. 
-You can choose between point-based or edge-based profiles, depending on your needs.
+The Breakline Extractor is a powerful tool designed to convert elevation data into detailed surface breaklines. 
+You can choose between point-based or edge-based breaklines, depending on your needs.
 
 2. Getting Started:
 Before you begin, ensure you have your elevation data ready in a compatible format (ASCII file).
@@ -42,10 +42,10 @@ Choose whether to export:
 	Export Points: A separate file containing only the points.
 	Export Edges: A separate file containing only the edges.
 
-6. Profile Length and Neighbors:
-Customize the profile length and neighbors:
+6. Breakline Length and Neighbors:
+Customize the breakline length and neighbors:
 
-	Min. Profile Length Along X,Y Coordinates: Set the minimum profile length along X and Y coordinates.
+	Min. Breakline Length Along X,Y Coordinates: Set the minimum breakline length along X and Y coordinates.
 	Max. Length Between Points for Connectivity: Define the maximum length between two neighboring points.
 	Max. Length for Closed Edges: Set the maximum length to close open edges.
 
@@ -69,15 +69,15 @@ Utilize the CPU configuration options:
 Once you've configured the parameters, click the 'Submit' button to initiate the analysis process.
 
 11. Output Options:
-The tool generates surface profiles based on your settings. 
-You can obtain point-based or edge-based profiles depending on your export options.
+The tool generates surface breaklines based on your settings. 
+You can obtain point-based or edge-based breaklines depending on your export options.
 
 12. Viewing Results: 
 To visualize and interact with the generated output, consider utilizing third-party tools such as 'CloudCompare', 'MeshLab', or similar applications. 
 These tools enhance your viewing experience and allow you to explore the results in greater detail.
 
 13. Conclusion:
-The Terrain Profile Generator empowers you to transform elevation data into informative surface profiles. 
+The Breakline Extractor empowers you to transform elevation data into informative surface breaklines. 
 Experiment with the various parameters to uncover valuable insights.
 
 You can use the 'Sample Data' from 'File' menu to test and experience the functionality of the tool. 
