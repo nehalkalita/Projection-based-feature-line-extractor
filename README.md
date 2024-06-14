@@ -15,3 +15,6 @@ Additionally, an executable file for Windows systems is available in the **Execu
 ### Metadata
 The metadata files, located in the **Metadata** directory, summarise the datasets from OpenTopography which were used to test this tool
 
+### Test data
+The test data is located in the **Datasets** directory of the following repository: 
+https://doi.org/10.5281/zenodo.11628500
