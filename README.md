@@ -3,6 +3,9 @@ A feature line extractor from terrain point cloud data using projection-based ap
 
 ![alt text](output_demonstration.png)
 
+This tool was designed for the experiment mentioned in:
+[https://doi.org/10.21203/rs.3.rs-4549886/v1]
+
 ## Python packages to be installed
 * tkinter
 * multiprocessing
