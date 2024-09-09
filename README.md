@@ -1,4 +1,4 @@
-# Projection-based-breakline-extractor
+# Projection-based-feature-line-extractor
 A feature line extractor from terrain point cloud data using projection-based approach. 
 
 ![alt text](output_demonstration.png)
