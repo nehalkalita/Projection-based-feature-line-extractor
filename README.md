@@ -2,6 +2,7 @@
 A feature line extractor from terrain point cloud data using projection-based approach. 
 
 Video demonstration link:
+
 [![Watch the video](https://github.com/nehalkalita/Projection-based-feature-line-extractor/blob/main/output_demonstration1.png)](https://www.youtube.com/watch?v=i15vk3T6JyY)
 
 This tool was designed for the experiment mentioned in:
