@@ -1,5 +1,5 @@
 # Projection-based-feature-line-extractor
-A feature line extractor from terrain point cloud data using projection-based approach. 
+A ridge-valley feature line extractor from terrain point cloud data using projection-based approach. 
 
 Video demonstration link:
 
