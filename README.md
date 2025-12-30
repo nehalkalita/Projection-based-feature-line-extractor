@@ -24,7 +24,7 @@ The metadata files, located in the **Metadata** directory, summarise the dataset
 The test data is located in the **Datasets** directory of the following repository: 
 https://doi.org/10.5281/zenodo.13800136
 
-### Citation
+## Citation
 If you find this tool helpful in your work, please cite the following
 ```BibTex
 Kalita, N. and Maurya, R.K., 2025. Feature line extraction from terrain point clouds using 2D grid projection and spanning trees. Next Research, p.100673.
