@@ -5,7 +5,7 @@ Video demonstration link:
 
 [![Watch the video](https://github.com/nehalkalita/Projection-based-feature-line-extractor/blob/main/output_demonstration1.png)](https://www.youtube.com/watch?v=i15vk3T6JyY)
 
-This tool was designed for the experiment mentioned in the paper 
+This tool was designed for the experiment mentioned in the paper: 
 [Feature line extraction from terrain point clouds using 2D grid projection and spanning trees](https://doi.org/10.1016/j.nexres.2025.100673)
 
 ## Python packages to be installed
@@ -29,6 +29,7 @@ If you find this tool helpful in your work, please cite the following
 ```
 @article{feature_line_extraction_2025,
   title={Feature line extraction from terrain point clouds using 2D grid projection and spanning trees},
+  author={Kalita, Nehal and Maurya, Rajesh Kumar},
   journal={Next Research},
   year={2025},
   volume=[2],
