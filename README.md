@@ -29,9 +29,10 @@ If you find this tool helpful in your work, please cite the following
 ```
 @article{feature_line_extraction_2025,
   title={Feature line extraction from terrain point clouds using 2D grid projection and spanning trees},
-  journal={Nexus Resources},
+  journal={Next Research},
   year={2025},
-  doi={10.1016/j.nexres.2025.100673},
+  volume=[2],
+  issue=[3],
   url={https://doi.org/10.1016/j.nexres.2025.100673}
 }
 ```
