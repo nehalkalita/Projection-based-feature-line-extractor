@@ -26,6 +26,7 @@ https://doi.org/10.5281/zenodo.13800136
 
 ## Citation
 If you find this tool helpful in your work, please cite the following
+```
 @article{feature_line_extraction_2025,
   title={Feature line extraction from terrain point clouds using 2D grid projection and spanning trees},
   journal={Nexus Resources},
@@ -33,3 +34,4 @@ If you find this tool helpful in your work, please cite the following
   doi={10.1016/j.nexres.2025.100673},
   url={https://doi.org/10.1016/j.nexres.2025.100673}
 }
+```
